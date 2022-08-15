@@ -62,8 +62,8 @@ Anatomy of the Cloud Native Stack
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- Backdoor -->
-## Backdoor
+<!-- Motivation for Cloud Native Apps -->
+## Motivation for Cloud Native Apps
 
 <div align="center">
   <a href="https://github.com/Sheldon-Pang/Network-Security-Tools-Python">
@@ -71,7 +71,7 @@ Anatomy of the Cloud Native Stack
   </a>
 </div>
 
-Current version support all the popular OS and system command, download and upload files.
+In progress
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -93,7 +93,7 @@ Current version support all the popular OS and system command, download and uplo
 
 Sheldon Pang - SheldonLinkedin@yahoo.com
 
-Project Link: [https://github.com/Sheldon_Pang/To-Do-App-with-Jetpack-Compose](https://github.com/Sheldon_Pang/To-Do-App-with-Jetpack-Compose)
+Project Link: [https://github.com/Sheldon_Pang/Cloud-Native-Go](https://github.com/Sheldon_Pang/Cloud-Native-Go)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
