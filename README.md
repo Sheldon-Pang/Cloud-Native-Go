@@ -52,7 +52,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Some of the network hacking tools I have written in python. I will update and add more functionality from time to time.
+Anatomy of the Cloud Native Stack
+
+- Application Platform (Cloud Native App) - Provide runtime environment and APIs for applications.
+- Cluster Operating System
+	- Cluster Orchestrator (Application) - Dynamically executes applications on the cluster.
+	- Cluster Scheduler (Containers) - Manages cluster resources and executes containers.
+	- Cluster Virtulization (Resources) - Decouples from physical hardware.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
