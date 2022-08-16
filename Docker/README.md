@@ -14,19 +14,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go">
-    <img src="images/cloud_native.png" alt="Logo" width="150" height="150">
+    <img src="images/docker_logo.png" alt="Logo" width="150" height="150">
   </a>
 
-<h3 align="center">Cloud Native Go Application</h3>
-
-  <p align="center">
-    Cloud native go application, an ongoing project.
-    <br />
-    <br />
-    <br /><a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/issues/new">Report Bug</a>
-    ·
-    <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/issues/new">Request Feature</a>
-  </p>
+<h3 align="center">Basic Docker Workflow and Docker Commands</h3>
 </div>
 
 
@@ -52,13 +43,47 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Anatomy of the Cloud Native Stack
+Hardware versus OS virtualization
+- Hardware Virtualization - Isolated Hardware
+	- Application
+	- OS Libraries
+	- OS
+	- Virtual Hardware (Hardware Software Interface)
+	- Real Hardware (Shared Resources)
+- Hardware Virtualization Advantage: 
+	- Stronger Isolation
+- OS Virtualization - Isolated NW-interface, process space, file system
+	- Application
+	- OS Libraries (System Call Interface)
+	- OS (Shared Resources)
+	- Virtual Hardware (Shared Resources)
+	- Real Hardware (Shared Resources)
+- OS Virtualization Advantage:
+	- Less volume of private copy
+	- Near zero runtime overhead (RAM, CPU)
+	- Shorter start-up time
 
-- Application Platform (Cloud Native App) - Provide runtime environment and APIs for applications.
-- Cluster Operating System
-	- Cluster Orchestrator (Application) - Dynamically executes applications on the cluster.
-	- Cluster Scheduler (Containers) - Manages cluster resources and executes containers.
-	- Cluster Virtulization (Resources) - Decouples from physical hardware.
+<div align="center">
+  <h3 align="center">Docker images and containers</h3> 
+  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go">
+    <img src="images/docker_1.png" alt="Logo" width="150" height="150">
+  </a>
+</div>
+
+<div align="center">
+  <h3 align="center">The Docker workflows</h3> 
+  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go">
+    <img src="images/docker_2.png" alt="Logo" width="150" height="150">
+  </a>
+</div>
+
+<div align="center">
+  <h3 align="center">Some basic Docker commands</h3> 
+  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go">
+    <img src="images/docker_3.png" alt="Logo" width="150" height="150">
+  </a>
+</div>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
