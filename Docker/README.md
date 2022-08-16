@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
-    <img src="images/docker_logo.png" alt="Logo" width="150" height="150">
+    <img src="images/docker_logo.png" alt="Logo" width="384" height="216">
   </a>
 
 <h3 align="center">Basic Docker Workflow and Docker Commands</h3>
@@ -63,24 +63,24 @@ Hardware versus OS virtualization
 	- Near zero runtime overhead (RAM, CPU)
 	- Shorter start-up time
 
-<div align="center">
-  <h3 align="center">Docker images and containers</h3> 
+<div align="left">
+  <h3 align="left">Docker images and containers</h3> 
   <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
-    <img src="images/docker_1.png" alt="Logo" width="150" height="150">
+    <img src="images/docker_1.png" alt="Logo" width="2212" height="1050">
   </a>
 </div>
 
-<div align="center">
-  <h3 align="center">The Docker workflows</h3> 
+<div align="left">
+  <h3 align="left">The Docker workflows</h3> 
   <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
-    <img src="images/docker_2.png" alt="Logo" width="150" height="150">
+    <img src="images/docker_2.png" alt="Logo" width="1260" height="1008">
   </a>
 </div>
 
-<div align="center">
-  <h3 align="center">Some basic Docker commands</h3> 
+<div align="left">
+  <h3 align="left">Some basic Docker commands</h3> 
   <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
-    <img src="images/docker_3.png" alt="Logo" width="150" height="150">
+    <img src="images/docker_3.png" alt="Logo" width="2362" height="1014">
   </a>
 </div>
 
