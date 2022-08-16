@@ -66,21 +66,21 @@ Hardware versus OS virtualization
 <div align="left">
   <h3 align="left">Docker images and containers</h3> 
   <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
-    <img src="images/docker_1.png" alt="Logo" width="2212" height="1050">
+    <img src="images/docker_1.png" alt="Logo" width="664" height="315">
   </a>
 </div>
 
 <div align="left">
   <h3 align="left">The Docker workflows</h3> 
   <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
-    <img src="images/docker_2.png" alt="Logo" width="1260" height="1008">
+    <img src="images/docker_2.png" alt="Logo" width="756" height="605">
   </a>
 </div>
 
 <div align="left">
   <h3 align="left">Some basic Docker commands</h3> 
   <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
-    <img src="images/docker_3.png" alt="Logo" width="2362" height="1014">
+    <img src="images/docker_3.png" alt="Logo" width="944" height="406">
   </a>
 </div>
 
