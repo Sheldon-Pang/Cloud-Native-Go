@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go">
+  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
     <img src="images/docker_logo.png" alt="Logo" width="150" height="150">
   </a>
 
@@ -65,21 +65,21 @@ Hardware versus OS virtualization
 
 <div align="center">
   <h3 align="center">Docker images and containers</h3> 
-  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go">
+  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
     <img src="images/docker_1.png" alt="Logo" width="150" height="150">
   </a>
 </div>
 
 <div align="center">
   <h3 align="center">The Docker workflows</h3> 
-  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go">
+  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
     <img src="images/docker_2.png" alt="Logo" width="150" height="150">
   </a>
 </div>
 
 <div align="center">
   <h3 align="center">Some basic Docker commands</h3> 
-  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go">
+  <a href="https://github.com/Sheldon-Pang/Cloud-Native-Go/docker">
     <img src="images/docker_3.png" alt="Logo" width="150" height="150">
   </a>
 </div>
